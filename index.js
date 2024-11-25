@@ -34,7 +34,7 @@ function handleSlider(){
 
 function setIndicator(color)
 {
-    indicator.getElementsByClassName.backgroundColor = color;
+    indicator.style.backgroundColor = color;
 }
 
 function getRandomInteger(min, max)
